@@ -1,0 +1,2 @@
+Clase intro a git 
+se agregan cambios
